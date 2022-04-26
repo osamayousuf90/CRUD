@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+.heading-for-page {
+    color: white;
+}
+
+body {
+    background-image: url(./Images/159Z_2107.w026.n002.628B.p1.628.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+}
+
+
+
+
+#divdemo h1{
+   color: white;
+}  
+
+#removemaaro {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+#nameUpdate {
+    display: none;
+}
